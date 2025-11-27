@@ -1,6 +1,8 @@
 # AI-Studio Summary 
---> (to be added after final presentation – Dec 6th)
+--> to be added after final presentation day – Dec 6th
+
 --> Performed data cleaning and feature engineering on IRS and demographic datasets.
+
 --> Developed a custom ZIP-code–level Social Vulnerability Index (SVI), providing a more granular alternative to the county-level SVI available from SDS.
 --> Created an interactive vulnerability map for New York State, featuring:
 --> Categorization of ZIP codes into low, moderate, high, and severe vulnerability tiers.
